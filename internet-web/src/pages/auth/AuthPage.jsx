@@ -224,7 +224,7 @@ const AuthPage = () => {
                                     </form>
 
                                     <div className="mt-4 text-center">
-                                        <a href="">
+                                        <a href="/password-reset">
                                             <p className="uppercase text-[#2563EB] font-bold text-xs sm:text-sm">
                                                 Forget_password ?
                                             </p>
